@@ -1,0 +1,2 @@
+set_global_assignment -library "DVI_OUT" -name VERILOG_FILE [file join $::quartus(qip_path) "DVI_OUT.v"]
+set_global_assignment -library "DVI_OUT" -name VERILOG_FILE [file join $::quartus(qip_path) "TMDS_ENCODE.v"]
