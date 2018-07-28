@@ -1,7 +1,7 @@
-This file includes licensing information for [insert application name].
+This file includes licensing information for VidorFPGA.
 
-Copyright (c) [insert year]
-Authors: [insert authors]
+Copyright (c) 2018
+Authors: Arduino SA, Dario Pennisi
 
 The software is released under the GNU General Public License, which covers the main body
 of the [insert app name] code. The terms of this license can be found at:
